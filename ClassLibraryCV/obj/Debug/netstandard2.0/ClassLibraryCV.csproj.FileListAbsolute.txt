@@ -1,0 +1,11 @@
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\bin\Debug\netstandard2.0\ClassLibraryCV.deps.json
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\bin\Debug\netstandard2.0\ClassLibraryCV.dll
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\bin\Debug\netstandard2.0\ClassLibraryCV.pdb
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.Properties.Resources.resources
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.csproj.GenerateResource.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.csproj.CoreCompileInputs.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.AssemblyInfoInputs.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.AssemblyInfo.cs
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.dll
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\obj\Debug\netstandard2.0\ClassLibraryCV.pdb
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\ClassLibraryCV\bin\Debug\netstandard2.0\training.json
