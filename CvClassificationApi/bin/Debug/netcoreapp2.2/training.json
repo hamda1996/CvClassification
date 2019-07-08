@@ -1,0 +1,126 @@
+[
+  {
+    "desc": "VS 2007",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2008",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2009",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2010",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2011",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2012",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS 2013",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "SQL",
+    "category": "SQL Server"
+  },
+  {
+    "desc": "SQL-SERVER 2005",
+    "category": "SQL Server"
+  },
+  {
+    "desc": "SQL SERVER 2008 R2",
+    "category": "SQL Server"
+  },
+  {
+    "desc": "SQL-SERVER 2008 R2",
+    "category": "SQL Server"
+  },
+  {
+    "desc": "VS 2017",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "ASP.NET MVC 2",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": "ASP.NET MVC 3",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": ".NET 4.5",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": ".NET 4.7.2",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": ".NET 3.5",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": "NET 4.5",
+    "category": "ASP.NET"
+  },
+  {
+    "desc": "TFS 2012",
+    "category": "TFS"
+  },
+  {
+    "desc": "TFS 2010",
+    "category": "TFS"
+  },
+  {
+    "desc": "VISUAL STUDIO 2013",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "VS",
+    "category": "Visual studio"
+  },
+  {
+    "desc": "Js",
+    "category": "Javascript"
+  },
+  {
+    "desc": "VBA",
+    "category": "VBA"
+  },
+  {
+    "desc": "Git",
+    "category": "Git"
+  },
+  {
+    "desc": "Excel",
+    "category": "Excel"
+  },
+  {
+    "desc": "WPF",
+    "category": "WPF"
+  },
+  {
+    "desc": "WCF",
+    "category": "WCF"
+  },
+  {
+    "desc": "POSTGRESQL",
+    "category": "POSTGRESQL"
+  },
+  {
+    "desc": "ORACLE",
+    "category": "ORACLE"
+  },
+  {
+    "desc": "VS 2008 ET 2010",
+    "category": "Visual studio"
+  }
+]
