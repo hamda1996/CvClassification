@@ -1,0 +1,15 @@
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\training.json
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\CvClassificationConsole.deps.json
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\CvClassificationConsole.runtimeconfig.json
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\CvClassificationConsole.runtimeconfig.dev.json
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\CvClassificationConsole.dll
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\CvClassificationConsole.pdb
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\ClassLibraryCV.dll
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\bin\Debug\netcoreapp2.2\ClassLibraryCV.pdb
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.csprojAssemblyReference.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.csproj.CoreCompileInputs.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.AssemblyInfoInputs.cache
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.AssemblyInfo.cs
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.csproj.CopyComplete
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.dll
+C:\Users\khdiallo.stage\Documents\stage\CvClassificationApi\CvClassificationConsole\obj\Debug\netcoreapp2.2\CvClassificationConsole.pdb
